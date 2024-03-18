@@ -1,0 +1,27 @@
+{
+  "name": "ezzyy-auth",
+  "version": "1.0.3",
+  "description": "For user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexSchroding3R/npm-package-ezzyy-auth.git"
+  },
+  "keywords": [
+    "ezz-auth"
+  ],
+  "author": "Alexvy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexSchroding3R/npm-package-ezzyy-auth/issues"
+  },
+  "homepage": "https://github.com/AlexSchroding3R/npm-package-ezzyy-auth#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
